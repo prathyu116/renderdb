@@ -13,14 +13,10 @@
       "itemName": "Rice Bags ",
       "category": "Food Grains",
       "quantity": 45
-    },
+    }
    
   ],
-  "donors": [
-   
-  ],
+  "donors": [],
   "donations": [],
-  "logistics": [
-    
-  ]
+  "logistics": []
 }
