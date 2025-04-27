@@ -10,60 +10,17 @@
   "inventory": [
     {
       "id": "item001",
-      "itemName": "Rice Bags (5kg)",
+      "itemName": "Rice Bags ",
       "category": "Food Grains",
       "quantity": 45
     },
-    {
-      "id": "item002",
-      "itemName": "Blankets",
-      "category": "Bedding",
-      "quantity": 1111
-    }
+   
   ],
   "donors": [
-    {
-      "id": "donor001",
-      "name": "Helping Hands Foundation",
-      "type": "Organization",
-      "contactPerson": "Jane Doe",
-      "email": "jane.doe@helpinghands.org",
-      "phone": "123-456-7890",
-      "address": "123 Charity St, Helping City, HC 12345"
-    },
-    {
-      "id": "donor002",
-      "name": "John Smith",
-      "type": "Individual",
-      "contactPerson": "",
-      "email": "john.smith@email.com",
-      "phone": "987-654-321",
-      "address": "456 Giving Ave, Generous Town, GT 67890"
-    }
+   
   ],
   "donations": [],
   "logistics": [
-    {
-      "id": "log_001",
-      "destination": "Community Shelter Alpha",
-      "inventoryItemId": "item001",
-      "itemName": "Rice Bags (5kg)",
-      "category": "Food Grains",
-      "quantityShipped": 10,
-      "status": "Pending",
-      "creationDate": "2023-10-27T11:00:00.000Z",
-      "lastUpdateDate": "2025-04-22T11:33:01.420Z"
-    },
-    {
-      "id": "log_002",
-      "destination": "Rural Aid Post Beta",
-      "inventoryItemId": "item002",
-      "itemName": "Blankets",
-      "category": "Bedding",
-      "quantityShipped": 25,
-      "status": "Cancelled",
-      "creationDate": "2023-10-28T09:15:00.000Z",
-      "lastUpdateDate": "2025-04-22T11:33:08.734Z"
-    }
+    
   ]
 }
